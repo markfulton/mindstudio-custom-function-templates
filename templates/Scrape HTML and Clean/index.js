@@ -1,3 +1,7 @@
+// Scrape Body HTML and remove unnecessary elements
+// by Mark Fulton
+// https://www.reinventing.ai/ (Ctrl+Click)
+
 const url = ai.getConfig('url');
 
 ai.log('Researching top resources...');
